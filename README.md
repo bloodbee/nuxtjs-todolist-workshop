@@ -21,7 +21,7 @@ $ npm run generate
 
 ## Config setup for heroku
 Env variables :
-````
+```bash
 HOST=0.0.0.0
 NPM_CONFIG_PRODUCTION=false
 NODE_ENV=production
